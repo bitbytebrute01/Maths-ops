@@ -4,7 +4,7 @@ age = 19
 marks = 30
 sem = "3rd"
 print(f"The name : {name}")
-print(f"The name : {usn}")
-print(f"The name : {marks}")
-print(f"The name : {sem}")
-print(f"The name : {age}")
+print(f"The USN : {usn}")
+print(f"The Marks : {marks}")
+print(f"The Sem : {sem}")
+print(f"The Age : {age}")
