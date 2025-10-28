@@ -1,8 +1,8 @@
 # Simple calculator program
 
 # Take input from the user
-num1 = float(input("Enter first number: "))
-num2 = float(input("Enter second number: "))
+num1 = 10
+num2 = 5
 
 # Perform operations
 addition = num1 + num2
